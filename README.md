@@ -1,7 +1,7 @@
 
 # Cantos de Aves en Java
 
-Miguel Lara Ballen, José Mateus Malagón, Manuel Rolando Castillo Rodríguez, Lenin Fabian Cruz González
+José Mateus Malagón, Manuel Rolando Castillo Rodríguez
 Facultad de Ingeniería de Sistemas, Escuela Tecnológica Instituto Técnico Central
 TS3B: Programación II
 Ing. Sebastián Aguilera Novoa
