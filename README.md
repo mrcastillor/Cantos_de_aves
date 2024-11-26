@@ -47,7 +47,7 @@ El desarrollo del proyecto no involucra recursos económicos debido a que su pro
 
 Desarrollar un software en el lenguaje de programación Java que permita visualizar señales de audio del canto de las aves en un computador.
 
-#### Objetivos específicos
+### Objetivos específicos
 
 Determinar en qué formato de audio hay que convertir los sonidos grabados para ser procesados por el software de visualización.
 Codificar en lenguaje de programación Java una interfaz gráfica de usuario (GUI) para cargar archivos de audio en el formato escogido para ser procesados por el sofware de visualización.
