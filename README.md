@@ -1,7 +1,7 @@
 
 
 
-#Cantos de Aves en Java
+# Cantos de Aves en Java
 ---
 Miguel Lara Ballen, José Mateus Malagón, Manuel Rolando Castillo Rodríguez, Lenin Fabian Cruz González
 Facultad de Ingeniería de Sistemas, Escuela Tecnológica Instituto Técnico Central
@@ -9,7 +9,7 @@ TS3B: Programación II
 Ing. Sebastián Aguilera Novoa
 16 de septiembre de 2024
 
-##Descripción
+## Descripción
 ---
 El proyecto pretende desarrollar un software en el lenguaje de programación Java que permite visualizar y analizar grabaciones de sonido de cantos de aves. 
 Es importante crear herramientas para visualizar y analizar los sonidos de las aves para facilitar el trabajo de investigación de los biólogos y zoólogos que estudian estos animales, esto también lleva a promover la conservación de estas especies animales.
