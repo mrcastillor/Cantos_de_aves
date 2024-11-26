@@ -1,9 +1,13 @@
 # Cantos de Aves en Java
 
 José Mateus Malagón, Manuel Rolando Castillo Rodríguez
+
 Facultad de Ingeniería de Sistemas, Escuela Tecnológica Instituto Técnico Central
+
 TS3B: Programación II
+
 Ing. Sebastián Aguilera Novoa
+
 16 de septiembre de 2024
 
 ## Descripción
