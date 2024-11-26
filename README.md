@@ -1,4 +1,3 @@
-
 # Cantos de Aves en Java
 
 José Mateus Malagón, Manuel Rolando Castillo Rodríguez
@@ -92,7 +91,7 @@ public class DatabaseConnection {
     }
 }
 ``````
-
+---
 Crear tabla
 ``````java
 package com.canto;
@@ -145,7 +144,7 @@ public class CreateTable {
     }
 }
 ``````
-
+---
 Insertar datos
 ``````java
 package com.canto;
@@ -213,7 +212,7 @@ public class InsertAve {
     }
 }
 ``````
-
+---
 Archivo pom.xml
 ``````java
 <?xml version="1.0" encoding="UTF-8"?>
