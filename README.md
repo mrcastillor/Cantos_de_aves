@@ -14,7 +14,7 @@ Descripción
  El proyecto pretende desarrollar un software en el lenguaje de programación Java que permite visualizar y analizar grabaciones de sonido de cantos de aves. 
 Es importante crear herramientas para visualizar y analizar los sonidos de las aves para facilitar el trabajo de investigación de los biólogos y zoólogos que estudian estos animales, esto también lleva a promover la conservación de estas especies animales.
 Actualmente existen herramientas para analizar diferentes tipos de señales, pero no especializadas en señales de sonido de aves y que cuenten solamente con una funcionalidad mínima básica enfocada solamente en el propósito de visualizar estas señales de audio en particular.
-
+---
 Planteamiento
 
 A través de algunas bibliotecas de paquetes, Java permite representar datos sonoros de manera gráfica dependiendo también de la técnica utilizada para visualizar datos sonoros. 
