@@ -8,7 +8,7 @@ Facultad de Ingeniería de Sistemas, Escuela Tecnológica Instituto Técnico Cen
 TS3B: Programación II
 Ing. Sebastián Aguilera Novoa
 16 de septiembre de 2024
- ---
+---
 Descripción
 
  El proyecto pretende desarrollar un software en el lenguaje de programación Java que permite visualizar y analizar grabaciones de sonido de cantos de aves. 
