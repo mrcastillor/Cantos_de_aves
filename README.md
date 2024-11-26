@@ -1,6 +1,4 @@
 
-
-
 # Cantos de Aves en Java
 
 Miguel Lara Ballen, José Mateus Malagón, Manuel Rolando Castillo Rodríguez, Lenin Fabian Cruz González
@@ -43,20 +41,20 @@ Un software para percibir de manera visual señales de sonido de canto de aves a
 Existen soluciones de software para visualizar señales de audio y sonido, pero estas son soluciones generales para muchas aplicaciones de tratamiento de señales, debido a esto tienen muchas funciones complejas no aplicables a el análisis de audio o a el análisis de los cantos de aves. Una aplicación específica solamente para la visualización de sonidos de canto de aves esta parametrizada para este uso especifico y especializado. Esto disminuye la complejidad de su utilización por parte de los usuarios a los que va dirigido.
 El desarrollo del proyecto no involucra recursos económicos debido a que su producción es intelectual y virtual en un computador, no involucra ningún equipo físico adicional.
 
-# Objetivos
+## Objetivos
 
-## Objetivo general
+### Objetivo general
 
 Desarrollar un software en el lenguaje de programación Java que permita visualizar señales de audio del canto de las aves en un computador.
 
-### Objetivos específicos
+#### Objetivos específicos
 
 Determinar en qué formato de audio hay que convertir los sonidos grabados para ser procesados por el software de visualización.
 Codificar en lenguaje de programación Java una interfaz gráfica de usuario (GUI) para cargar archivos de audio en el formato escogido para ser procesados por el sofware de visualización.
 Codificar en Java la conversión de las señales de sonido del formato de audio a variables internas de trabajo.
 Visualizar las señales de sonido en una interfaz gráfica por medio del uso de librerías de clases y métodos de Java.
 
-
+---
 
 
 
