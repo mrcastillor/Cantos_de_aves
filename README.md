@@ -29,6 +29,7 @@ JFreeChart permite crear gráficos en dos dimensiones para visualizar informaci�
 Para visualizar información de sonidos y audio se pueden utilizar varias técnicas como las siguientes:
 Las ondas sonoras son expresadas como representación de una señal de audio en dos dimensiones, la amplitud de la señal de audio en función del tiempo.
 El espectrograma como una representación visual de la frecuencia y la amplitud de las diferentes componentes en las que se puede descomponer matemáticamente una señal de sonido en función del tiempo.
+
 El sonograma como una representación visual de las frecuencias de sonido en escala logarítmica.
 Las barras de nivel como una representación visual de las señales de sonido donde se visualiza la amplitud en diferentes bandas de frecuencia.
 Las Visualizaciones en tercera dimensión permiten representar información de señales de sonido a través de esferas o paisajes de sonido.
